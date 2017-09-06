@@ -10,18 +10,18 @@ namespace FavoriteFood
     {
         static void Main(string[] args)
         {
-            System.Console.WriteLine("Meep meep");
+            System.Console.WriteLine("favorite food?");
 
             var ans = Console.ReadLine();
 
             if (ans == "pizza")
             {
-                Console.WriteLine("Aw ye i luh dat boneless");
+                Console.WriteLine("nice");
 
             }
             else
             {
-                Console.WriteLine("nah B");
+                Console.WriteLine("no");
             }
 
 
